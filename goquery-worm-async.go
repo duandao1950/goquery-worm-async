@@ -13,7 +13,7 @@ import (
 )
 
 var dirRoot = "D:/study/mavtest"
-var siteUrl = "https://m.babytree.com"
+var siteUrl = "https://m.xxx.com"
 
 func check(e error) {
 	if e != nil {
